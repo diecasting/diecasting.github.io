@@ -1,88 +1,107 @@
-```yaml
-# -----------------------------------------------------------------------------
-# Site Settings
-# -----------------------------------------------------------------------------
+# The Site Configuration
+
+theme: jekyll-theme-chirpy
 
 lang: en-US
 timezone: Asia/Shanghai
 
-title: "Die Casting & Precision Engineering Solutions"
+title: Die Casting & Precision Engineering Solutions
+tagline: Expert Guides to Aluminum, Magnesium, Semi-Solid Die Casting, Mold Engineering and CNC Machining.
 
-tagline: >
-  Expert Guides to Aluminum, Magnesium, Semi-Solid Die Casting,
-  Mold Engineering and CNC Machining.
-
-description: >
+description: >-
   Professional engineering articles covering aluminum die casting,
   magnesium die casting, semi-solid casting, high-pressure die casting,
   mold design, CNC machining, manufacturing quality control,
   and precision engineering solutions.
 
 url: "https://diecasting.github.io"
-baseurl: ""
 
-theme_mode:
+github:
+  username: diecasting
 
-# -----------------------------------------------------------------------------
-# Author
-# -----------------------------------------------------------------------------
-
-author:
-  name: Hank
+twitter:
+  username:
 
 social:
   name: Hank
+  email:
+  fediverse_handle:
   links:
     - https://github.com/diecasting
 
-# -----------------------------------------------------------------------------
-# Avatar (Optional)
-# -----------------------------------------------------------------------------
+webmaster_verifications:
+  google:
+  bing:
+  alexa:
+  yandex:
+  baidu:
+  facebook:
 
-avatar: "/assets/img/avatar.png"
+analytics:
+  google:
+    id:
+  goatcounter:
+    id:
+  umami:
+    id:
+    domain:
+  matomo:
+    id:
+    domain:
+  cloudflare:
+    id:
+  fathom:
+    id:
 
-# -----------------------------------------------------------------------------
-# SEO
-# -----------------------------------------------------------------------------
+pageviews:
+  provider:
 
-social_preview_image: "/assets/img/cover.jpg"
+theme_mode:
 
-# -----------------------------------------------------------------------------
-# Collections
-# -----------------------------------------------------------------------------
+cdn:
 
-collections:
-  tabs:
-    output: true
-    sort_by: order
+avatar: /assets/img/avatar.png
+social_preview_image: /assets/img/cover.jpg
 
-# -----------------------------------------------------------------------------
-# Defaults
-# -----------------------------------------------------------------------------
+toc: true
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      comments: true
-      toc: true
-      permalink: /posts/:title/
-      image: /assets/img/cover.jpg
+actions:
+  edit_post:
+    enabled: false
+    url: ""
+    static_url: false
 
-  -
-    scope:
-      path: ""
-      type: tabs
-    values:
-      layout: page
-      permalink: /:title/
+comments:
+  provider:
+  disqus:
+    shortname:
+  utterances:
+    repo:
+    issue_term:
+  giscus:
+    repo:
+    repo_id:
+    category:
+    category_id:
+    mapping:
+    strict:
+    input_position:
+    lang:
+    reactions_enabled:
 
-# -----------------------------------------------------------------------------
-# Markdown
-# -----------------------------------------------------------------------------
+assets:
+  self_host:
+    enabled:
+    env:
+
+pwa:
+  enabled: true
+  cache:
+    enabled: true
+    deny_paths:
+
+paginate: 10
+baseurl: ""
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
@@ -95,81 +114,59 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# -----------------------------------------------------------------------------
-# Sass
-# -----------------------------------------------------------------------------
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
 
 sass:
   style: compressed
 
-# -----------------------------------------------------------------------------
-# Exclude
-# -----------------------------------------------------------------------------
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
 
 exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
   - README.md
   - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+  - purgecss.js
+  - "*.config.js"
+  - "package*.json"
 
-# -----------------------------------------------------------------------------
-# Plugins
-# -----------------------------------------------------------------------------
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-archives
-
-# -----------------------------------------------------------------------------
-# Feed
-# -----------------------------------------------------------------------------
-
-feed:
-  path: feed.xml
-
-# -----------------------------------------------------------------------------
-# Sitemap
-# -----------------------------------------------------------------------------
-
-sitemap:
-  filename: sitemap.xml
-
-# -----------------------------------------------------------------------------
-# Google Analytics
-# 留空，等申请 GA4 后填写
-# -----------------------------------------------------------------------------
-
-google_analytics:
-
-# -----------------------------------------------------------------------------
-# Comments
-# 留空，后续可接 Giscus
-# -----------------------------------------------------------------------------
-
-comments:
-
-# -----------------------------------------------------------------------------
-# Webmaster Verification
-# -----------------------------------------------------------------------------
-
-webmaster_verifications:
-  google:
-  bing:
-
-# -----------------------------------------------------------------------------
-# CDN
-# -----------------------------------------------------------------------------
-
-cdn:
-
-# -----------------------------------------------------------------------------
-# PWA
-# -----------------------------------------------------------------------------
-
-pwa:
-  enabled: true
-```
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
