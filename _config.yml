@@ -60,8 +60,8 @@ theme_mode:
 
 cdn:
 
-avatar: /assets/img/avatar.png
-social_preview_image: /assets/img/cover.jpg
+avatar:
+social_preview_image:
 
 toc: true
 
