@@ -1,39 +1,89 @@
-# 基础配置
+```yaml
+# -----------------------------------------------------------------------------
+# Site Settings
+# -----------------------------------------------------------------------------
+
 lang: en-US
-title: "Die Casting & Precision Engineering Solutions"
-tagline: "Expert Insights into Aluminum, Magnesium, Semi-Solid Die Casting, and CNC Machining."
-description: "Professional technical resource for high-precision die casting, mold design, and CNC manufacturing processes."
-url: "https://diecasting.github.io"
-baseurl: ""
 timezone: Asia/Shanghai
 
-# 核心作者信息
+title: "Die Casting & Precision Engineering Solutions"
+
+tagline: >
+  Expert Guides to Aluminum, Magnesium, Semi-Solid Die Casting,
+  Mold Engineering and CNC Machining.
+
+description: >
+  Professional engineering articles covering aluminum die casting,
+  magnesium die casting, semi-solid casting, high-pressure die casting,
+  mold design, CNC machining, manufacturing quality control,
+  and precision engineering solutions.
+
+url: "https://diecasting.github.io"
+baseurl: ""
+
+theme_mode:
+
+# -----------------------------------------------------------------------------
+# Author
+# -----------------------------------------------------------------------------
+
 author:
   name: Hank
+
 social:
   name: Hank
   links:
     - https://github.com/diecasting
 
-# 网站结构与分类
+# -----------------------------------------------------------------------------
+# Avatar (Optional)
+# -----------------------------------------------------------------------------
+
+avatar: "/assets/img/avatar.png"
+
+# -----------------------------------------------------------------------------
+# SEO
+# -----------------------------------------------------------------------------
+
+social_preview_image: "/assets/img/cover.jpg"
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+
 collections:
-  posts:
-    output: true
-    permalink: /posts/:title/
   tabs:
     output: true
     sort_by: order
 
-# 菜单栏配置
-header:
-  nav:
-    - { title: "Aluminum Casting", url: /categories/aluminum-die-casting/ }
-    - { title: "Magnesium Casting", url: /categories/magnesium-die-casting/ }
-    - { title: "Semi-Solid Casting", url: /categories/semi-solid-die-casting/ }
-    - { title: "CNC & Mold Tech", url: /categories/cnc-mold-tech/ }
-    - { title: "About", url: /about/ }
+# -----------------------------------------------------------------------------
+# Defaults
+# -----------------------------------------------------------------------------
 
-# 主题插件配置（必须保留，否则主题无法正常工作）
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+      image: /assets/img/cover.jpg
+
+  -
+    scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+# -----------------------------------------------------------------------------
+# Markdown
+# -----------------------------------------------------------------------------
+
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
@@ -45,21 +95,81 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      comments: true
-      toc: true
-      permalink: /posts/:title/
-  - scope:
-      path: ""
-      type: tabs
-    values:
-      layout: page
-      permalink: /:title/
+# -----------------------------------------------------------------------------
+# Sass
+# -----------------------------------------------------------------------------
 
 sass:
   style: compressed
+
+# -----------------------------------------------------------------------------
+# Exclude
+# -----------------------------------------------------------------------------
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# -----------------------------------------------------------------------------
+# Plugins
+# -----------------------------------------------------------------------------
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# -----------------------------------------------------------------------------
+# Feed
+# -----------------------------------------------------------------------------
+
+feed:
+  path: feed.xml
+
+# -----------------------------------------------------------------------------
+# Sitemap
+# -----------------------------------------------------------------------------
+
+sitemap:
+  filename: sitemap.xml
+
+# -----------------------------------------------------------------------------
+# Google Analytics
+# 留空，等申请 GA4 后填写
+# -----------------------------------------------------------------------------
+
+google_analytics:
+
+# -----------------------------------------------------------------------------
+# Comments
+# 留空，后续可接 Giscus
+# -----------------------------------------------------------------------------
+
+comments:
+
+# -----------------------------------------------------------------------------
+# Webmaster Verification
+# -----------------------------------------------------------------------------
+
+webmaster_verifications:
+  google:
+  bing:
+
+# -----------------------------------------------------------------------------
+# CDN
+# -----------------------------------------------------------------------------
+
+cdn:
+
+# -----------------------------------------------------------------------------
+# PWA
+# -----------------------------------------------------------------------------
+
+pwa:
+  enabled: true
+```
