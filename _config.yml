@@ -1,107 +1,29 @@
-# The Site Configuration
-
-theme: jekyll-theme-chirpy
-
 lang: en-US
+title: "Die Casting & Precision Engineering Solutions"
+tagline: "Expert Insights into Aluminum, Magnesium, Semi-Solid Die Casting, and CNC Machining."
+description: "Professional technical resource for high-precision die casting, mold design, and CNC manufacturing processes."
+url: "https://diecasting.github.io"
+baseurl: ""
 timezone: Asia/Shanghai
 
-title: Die Casting & Precision Engineering Solutions
-tagline: Expert Guides to Aluminum, Magnesium, Semi-Solid Die Casting, Mold Engineering and CNC Machining.
-
-description: >-
-  Professional engineering articles covering aluminum die casting,
-  magnesium die casting, semi-solid casting, high-pressure die casting,
-  mold design, CNC machining, manufacturing quality control,
-  and precision engineering solutions.
-
-url: "https://diecasting.github.io"
-
-github:
-  username: diecasting
-
-twitter:
-  username:
-
-social:
+author:
   name: Hank
-  email:
-  fediverse_handle:
-  links:
-    - https://github.com/diecasting
 
-webmaster_verifications:
-  google:
-  bing:
-  alexa:
-  yandex:
-  baidu:
-  facebook:
+collections:
+  posts:
+    output: true
+    permalink: /posts/:title/
+  tabs:
+    output: true
+    sort_by: order
 
-analytics:
-  google:
-    id:
-  goatcounter:
-    id:
-  umami:
-    id:
-    domain:
-  matomo:
-    id:
-    domain:
-  cloudflare:
-    id:
-  fathom:
-    id:
-
-pageviews:
-  provider:
-
-theme_mode:
-
-cdn:
-
-avatar:
-social_preview_image:
-
-toc: true
-
-actions:
-  edit_post:
-    enabled: false
-    url: ""
-    static_url: false
-
-comments:
-  provider:
-  disqus:
-    shortname:
-  utterances:
-    repo:
-    issue_term:
-  giscus:
-    repo:
-    repo_id:
-    category:
-    category_id:
-    mapping:
-    strict:
-    input_position:
-    lang:
-    reactions_enabled:
-
-assets:
-  self_host:
-    enabled:
-    env:
-
-pwa:
-  enabled: true
-  cache:
-    enabled: true
-    deny_paths:
-
-paginate: 10
-baseurl: ""
+header:
+  nav:
+    - { title: "Aluminum Casting", url: /categories/aluminum-casting/ }
+    - { title: "Magnesium Casting", url: /categories/magnesium-casting/ }
+    - { title: "Semi-Solid Casting", url: /categories/semi-solid-casting/ }
+    - { title: "CNC & Mold Tech", url: /categories/cnc-mold-tech/ }
+    - { title: "About", url: /about/ }
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
@@ -114,11 +36,6 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-collections:
-  tabs:
-    output: true
-    sort_by: order
-
 defaults:
   - scope:
       path: ""
@@ -129,10 +46,6 @@ defaults:
       toc: true
       permalink: /posts/:title/
   - scope:
-      path: _drafts
-    values:
-      comments: false
-  - scope:
       path: ""
       type: tabs
     values:
@@ -141,32 +54,3 @@ defaults:
 
 sass:
   style: compressed
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  profile: false
-  blanklines: false
-  ignore:
-    envs: [development]
-
-exclude:
-  - "*.gem"
-  - "*.gemspec"
-  - docs
-  - tools
-  - README.md
-  - LICENSE
-  - purgecss.js
-  - "*.config.js"
-  - "package*.json"
-
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
