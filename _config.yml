@@ -1,34 +1,22 @@
 theme: jekyll-theme-chirpy
-
 lang: en-US
 timezone: Asia/Shanghai
-
-title: Aluminum & Magnesium Die Casting Engineering
-tagline: Expert Guides to Die Casting, CNC Machining and Mold Engineering
-
-description: >-
-  Professional engineering articles covering aluminum die casting,
-  magnesium die casting, semi-solid casting, CNC machining,
-  die mold design and manufacturing quality control.
-
+title: Die Casting & Precision Engineering Solutions
+tagline: Aluminum Die Casting, Magnesium Casting, Semi-Solid Processing, CNC Machining and Mold Engineering
+description: Professional engineering articles covering aluminum die casting, magnesium die casting, semi-solid casting, CNC machining and mold engineering.
 url: "https://diecasting.github.io"
 baseurl: ""
-
 github:
   username: diecasting
-
 social:
-  name: DieCasting Engineering
+  name: Die Casting Engineering
   links:
     - https://github.com/diecasting
-
 paginate: 10
 toc: true
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-
 markdown: kramdown
 highlighter: rouge

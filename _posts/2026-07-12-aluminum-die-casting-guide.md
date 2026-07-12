@@ -1,24 +1,23 @@
 ---
-title: "Aluminum Die Casting: Engineering Guide"
+title: "Aluminum Die Casting Engineering Guide"
 date: 2026-07-12 10:00:00 +0800
 categories:
-  - Die Casting
-tags:
   - Aluminum Die Casting
+tags:
   - HPDC
+  - Aluminum Alloy
   - Manufacturing
-description: "A practical guide covering aluminum die casting process, tooling and quality control."
+description: "Engineering guide covering aluminum die casting process, alloys, tooling and quality control."
 ---
 
 # Aluminum Die Casting
 
-Aluminum die casting is widely used in automotive,
-electronics and industrial components.
+Aluminum die casting is widely used in automotive, electronics and industrial products.
 
 Future articles will cover:
 
 - Alloy selection
 - Mold design
-- Injection parameters
-- Porosity control
-- CNC machining after casting
+- Casting defects
+- Process optimization
+- CNC machining

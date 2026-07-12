@@ -1,4 +1,6 @@
-# DieCasting Engineering Blog
+# Die Casting Engineering Blog
+
+Built with Jekyll Chirpy.
 
 Topics:
 - Aluminum Die Casting
@@ -6,5 +8,3 @@ Topics:
 - Semi-Solid Casting
 - CNC Machining
 - Mold Engineering
-
-Built with Jekyll Chirpy Starter.
