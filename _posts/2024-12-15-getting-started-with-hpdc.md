@@ -74,4 +74,4 @@ HPDC is a proven process for high-volume production of quality aluminum castings
 
 ---
 
-**Next Read**: [Aluminum A356 Alloy Selection Guide](/posts/aluminum-a356-alloy-guide/)
+**Next Read**: [Aluminum A356 Alloy Selection](/posts/aluminum-a356-alloy-selection/)

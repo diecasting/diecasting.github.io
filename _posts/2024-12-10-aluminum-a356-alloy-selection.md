@@ -119,6 +119,6 @@ A356 offers the ideal balance of mechanical performance, casting quality, and he
 
 ---
 
-**Related Articles**: 
+**Related Articles**:
 - [HPDC Process Fundamentals](/posts/getting-started-with-hpdc/)
-- [Mold Design Best Practices](/posts/mold-design-fundamentals/)
+- [Mold Design Best Practices](/posts/mold-design-best-practices/)
