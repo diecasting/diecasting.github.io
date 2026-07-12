@@ -1,39 +1,53 @@
-# Chirpy Starter
+# Alumcasting - Professional Die Casting Solutions
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to the Alumcasting GitHub Pages website repository.
 
-A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
+## About Alumcasting
 
-## Why This Starter Exists
+Alumcasting is China's leading high-pressure die casting manufacturer. We specialize in:
 
-When installing Chirpy through [RubyGems.org][gem], Jekyll can only read a subset of theme files (`_data`, `_layouts`, `_includes`, `_sass`, `assets`) and limited `_config.yml` options from the gem. As a result, users cannot enjoy the full out-of-the-box experience that Chirpy offers.
+- **Aluminum Die Casting** - HPDC processes for automotive and industrial applications
+- **Magnesium Casting** - Lightweight solutions using AM60B and AZ91D alloys
+- **Semi-Solid Casting** - Advanced Rheocasting and Thixocasting technologies
+- **CNC Machining & Finishing** - Precision post-processing services
+- **Custom Mold Design** - In-house mold development and manufacturing
 
-To unlock all features, the following files must be present in your Jekyll site:
+## Website Features
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+- **Technical Blog** - In-depth articles on die casting processes, materials, and best practices
+- **Category Navigation** - Browse articles by topic (Aluminum, Magnesium, Mold Technology, etc.)
+- **Tag Filtering** - Find articles by specific technologies and materials
+- **Contact Form** - Reach out for custom casting solutions and quotes
+
+## Building the Site Locally
+
+This site uses Jekyll with the Chirpy theme.
+
+### Prerequisites
+
+- Ruby 3.0+
+- Bundler
+
+### Setup
+
+```bash
+git clone https://github.com/diecasting/diecasting.github.io.git
+cd diecasting.github.io
+bundle install
+bundle exec jekyll serve
 ```
 
-This starter bundles those files from the latest **Chirpy** release along with a [CD][CD] workflow, so you can start writing immediately.
+Visit `http://localhost:4000` to view the site.
 
-## Usage
+## Quality Assurance
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+All internal links are validated using HTML-Proofer. The site must pass validation before deployment.
 
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+```bash
+bundle exec jekyll build
+bundle exec htmlproofer _site
+```
 
 ## License
 
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+This work is published under MIT License.
