@@ -4,21 +4,37 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## About Die Casting & Precision Engineering Solutions
+## About Alumcasting
 
-Welcome to our technical hub for die casting and precision engineering. We are dedicated to sharing industry insights, best practices, and practical knowledge about:
+Alumcasting is China's leading high-pressure die casting manufacturer specializing in custom solutions for global automotive, electronics, and industrial markets. With decades of experience and cutting-edge technology, we deliver precision components that meet the highest quality standards.
 
-### Our Focus Areas
+### Our Expertise
 
-- **Aluminum Die Casting** — High-pressure die casting (HPDC) processes, material selection (A356, ADC12, A380), and quality optimization
-- **Magnesium Die Casting** — Advanced lightweight casting technologies using AM60B and other high-performance alloys
-- **Semi-Solid Casting** — Rheocasting and Thixocasting techniques for superior mechanical properties
-- **CNC Machining & Mold Technology** — Precision machining solutions and specialized mold design for complex geometries
+- **Aluminum Die Casting (HPDC)** — High-pressure die casting processes with tight tolerances and excellent surface finishes for A356, ADC12, A380 and other alloys
+- **Magnesium Die Casting** — Lightweight solutions using AM60B and AZ91D alloys for weight-critical automotive and aerospace applications
+- **Semi-Solid Casting** — Advanced Rheocasting and Thixocasting for superior mechanical properties and thin-wall components
+- **CNC Machining & Finishing** — Precision post-processing and assembly services
+- **Custom Mold Design & Manufacturing** — In-house mold development using 17-4PH stainless steel and advanced cooling technologies
 
-### Our Mission
+### Quality Commitment
 
-We publish practical engineering articles, detailed manufacturing guides, and process optimization techniques to help industry professionals improve their operations and stay current with the latest technologies in die casting and precision manufacturing.
+- **ISO/IATF Certified** — Automotive quality standards compliance
+- **100% Quality Inspection** — Advanced testing and validation systems
+- **Supply Chain Reliability** — On-time delivery and consistent quality
+- **Technical Support** — Design optimization and process improvement consulting
 
-### Contact
+### Why Choose Alumcasting?
 
-Interested in collaborating or discussing a project? [Contact us](#contact) using the form below or reach out via email.
+✓ **30+ Years Experience** — Proven track record in precision die casting  
+✓ **Advanced Technology** — State-of-the-art equipment and processes  
+✓ **Competitive Pricing** — High-volume production efficiency  
+✓ **Global Reach** — Serving automotive, electronics, and industrial sectors worldwide  
+✓ **Customization** — Full design-to-delivery support  
+
+### Connect With Us
+
+Interested in partnering with Alumcasting? [Contact us](/contact/) to discuss your project requirements and receive a custom quote.
+
+---
+
+**Learn More**: Explore our [blog](/categories/) for technical articles on die casting processes, material selection, and manufacturing best practices.

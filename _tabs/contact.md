@@ -4,13 +4,11 @@ icon: fas fa-envelope
 order: 5
 ---
 
-## Get in Touch
+## Contact Alumcasting
 
-Have questions about die casting, mold design, or manufacturing processes? We'd love to hear from you!
+Have questions about our die casting services, custom mold design, or manufacturing solutions? We're here to help! Fill out the form below and our team will respond within 24 business hours.
 
 ### Contact Form
-
-Use the form below to send us a message. We'll respond within 24 business hours.
 
 <form action="https://formspree.io/f/xpqgbdly" method="POST" style="max-width: 100%; margin: 2rem 0; padding: 1.5rem; background: var(--card-bg); border-radius: 8px; border: 1px solid var(--border-color);">
   
@@ -20,8 +18,13 @@ Use the form below to send us a message. We'll respond within 24 business hours.
   </div>
 
   <div style="margin-bottom: 1.5rem;">
-    <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">Your Email *</label>
+    <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">Email Address *</label>
     <input type="email" id="email" name="email" required style="width: 100%; padding: 0.75rem; border: 1px solid var(--border-color); border-radius: 4px; font-family: inherit; font-size: 1rem;">
+  </div>
+
+  <div style="margin-bottom: 1.5rem;">
+    <label for="company" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">Company</label>
+    <input type="text" id="company" name="company" style="width: 100%; padding: 0.75rem; border: 1px solid var(--border-color); border-radius: 4px; font-family: inherit; font-size: 1rem;">
   </div>
 
   <div style="margin-bottom: 1.5rem;">
@@ -40,11 +43,23 @@ Use the form below to send us a message. We'll respond within 24 business hours.
 
 </form>
 
-### Other Ways to Reach Us
+### Other Contact Methods
 
+- **Website**: [https://alumcasting.com](https://alumcasting.com)
+- **Email**: contact@alumcasting.com
 - **GitHub**: [@diecasting](https://github.com/diecasting)
-- **Email**: contact@diecasting.github.io
+
+### What We Offer
+
+- Custom die casting solutions
+- Material consultation and selection
+- Design optimization services
+- Quality testing and inspection
+- Rapid prototyping and low-volume production
+- High-volume manufacturing
+- Post-processing and assembly services
 
 ---
 
 **Note**: All fields marked with * are required. We respect your privacy and will only use your contact information to respond to your inquiry.
+
