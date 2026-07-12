@@ -1,56 +1,26 @@
+# 网站基本信息
 lang: en-US
-title: "Die Casting & Precision Engineering Solutions"
-tagline: "Expert Insights into Aluminum, Magnesium, Semi-Solid Die Casting, and CNC Machining."
-description: "Professional technical resource for high-precision die casting, mold design, and CNC manufacturing processes."
-url: "https://diecasting.github.io"
-baseurl: ""
 timezone: Asia/Shanghai
 
+title: Die Casting Expert
+tagline: Aluminum, Magnesium, Semi-Solid Casting & CNC Machining Solutions
+
+# 你的个人或公司信息
 author:
   name: Hank
+  twitter_username: 
+  email: hank@yourdomain.com # 请替换为你的邮箱
+  uri: https://yourdomain.com # 你的公司网站地址
 
-collections:
-  posts:
-    output: true
-    permalink: /posts/:title/
-  tabs:
-    output: true
-    sort_by: order
+# 站点链接
+url: https://diecasting.github.io
+baseurl: ""
 
-header:
-  nav:
-    - { title: "Aluminum Casting", url: /categories/aluminum-casting/ }
-    - { title: "Magnesium Casting", url: /categories/magnesium-casting/ }
-    - { title: "Semi-Solid Casting", url: /categories/semi-solid-casting/ }
-    - { title: "CNC & Mold Tech", url: /categories/cnc-mold-tech/ }
-    - { title: "About", url: /about/ }
+# 版权设置
+copyright:
+  name: Hank
+  since: 2026
 
-kramdown:
-  footnote_backlink: "&#8617;&#xfe0e;"
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: highlight
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      comments: true
-      toc: true
-      permalink: /posts/:title/
-  - scope:
-      path: ""
-      type: tabs
-    values:
-      layout: page
-      permalink: /:title/
-
-sass:
-  style: compressed
+# Google Analytics (如果有，建议在此添加)
+google_analytics:
+  id: G-XXXXXXXXXX
