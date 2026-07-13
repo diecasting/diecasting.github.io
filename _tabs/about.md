@@ -1,40 +1,41 @@
 ---
-title: About
+title: Über uns
 icon: fas fa-info-circle
 order: 4
+permalink: /about/
 ---
 
-## About Alumcasting
+## Über Alumcasting
 
-Alumcasting is China's leading high-pressure die casting manufacturer specializing in custom solutions for global automotive, electronics, and industrial markets. With decades of experience and cutting-edge technology, we deliver precision components that meet the highest quality standards.
+Alumcasting ist Chinas führender Hersteller für Hochdruck-Druckguss und spezialisiert auf maßgeschneiderte Lösungen für die weltweiten Automobil-, Elektronik- und Industriemärkte. Mit jahrzehntelanger Erfahrung und modernster Technologie liefern wir Präzisionsbauteile auf höchstem Qualitätsniveau.
 
-### Our Expertise
+### Unsere Kompetenzen
 
-- **Aluminum Die Casting (HPDC)** — High-pressure die casting processes with tight tolerances and excellent surface finishes for A356, ADC12, A380 and other alloys
-- **Magnesium Die Casting** — Lightweight solutions using AM60B and AZ91D alloys for weight-critical automotive and aerospace applications
-- **Semi-Solid Casting** — Advanced Rheocasting and Thixocasting for superior mechanical properties and thin-wall components
-- **CNC Machining & Finishing** — Precision post-processing and assembly services
-- **Custom Mold Design & Manufacturing** — In-house mold development using 17-4PH stainless steel and advanced cooling technologies
+- **Aluminium-Druckguss (HPDC)** — Hochdruck-Druckgussverfahren mit engen Toleranzen und hervorragender Oberflächenqualität für A356, ADC12, A380 und andere Legierungen
+- **Magnesium-Druckguss** — Leichtbau-Lösungen mit AM60B- und AZ91D-Legierungen für gewichtsrelevante Automobil- und Luftfahrtanwendungen
+- **Semi-Solid-Guss** — Modernes Rheocasting und Thixocasting für überlegene mechanische Eigenschaften und dünnwandige Bauteile
+- **CNC-Bearbeitung & Veredelung** — Präzise Nachbearbeitung und Montageservices
+- **Kundenspezifische Werkzeugkonstruktion & Fertigung** — Eigene Werkzeugentwicklung mit 17-4PH-Edelstahl und fortschrittlichen Kühltechnologien
 
-### Quality Commitment
+### Qualitätsversprechen
 
-- **ISO/IATF Certified** — Automotive quality standards compliance
-- **100% Quality Inspection** — Advanced testing and validation systems
-- **Supply Chain Reliability** — On-time delivery and consistent quality
-- **Technical Support** — Design optimization and process improvement consulting
+- **ISO/IATF-zertifiziert** — Erfüllung von Qualitätsstandards der Automobilbranche
+- **100% Qualitätsprüfung** — Moderne Prüf- und Validierungssysteme
+- **Zuverlässige Lieferkette** — Pünktliche Lieferung und gleichbleibende Qualität
+- **Technische Unterstützung** — Beratung zur Designoptimierung und Prozessverbesserung
 
-### Why Choose Alumcasting?
+### Warum Alumcasting?
 
-✓ **30+ Years Experience** — Proven track record in precision die casting  
-✓ **Advanced Technology** — State-of-the-art equipment and processes  
-✓ **Competitive Pricing** — High-volume production efficiency  
-✓ **Global Reach** — Serving automotive, electronics, and industrial sectors worldwide  
-✓ **Customization** — Full design-to-delivery support  
+✓ **30+ Jahre Erfahrung** — Nachgewiesene Kompetenz im Präzisions-Druckguss  
+✓ **Fortschrittliche Technologie** — Modernste Anlagen und Prozesse  
+✓ **Wettbewerbsfähige Preise** — Effiziente Produktion in hohen Stückzahlen  
+✓ **Globale Reichweite** — Weltweite Belieferung von Automobil-, Elektronik- und Industriemärkten  
+✓ **Individuelle Lösungen** — Vollständige Unterstützung von der Konstruktion bis zur Lieferung  
 
-### Connect With Us
+### Kontaktieren Sie uns
 
-Interested in partnering with Alumcasting? [Contact us](/contact/) to discuss your project requirements and receive a custom quote.
+Sie möchten mit Alumcasting zusammenarbeiten? [Kontaktieren Sie uns](/contact/), um Ihre Anforderungen zu besprechen und ein individuelles Angebot zu erhalten.
 
 ---
 
-**Learn More**: Explore our [blog](/categories/) for technical articles on die casting processes, material selection, and manufacturing best practices.
+**Mehr erfahren**: Entdecken Sie unseren [Blog](/categories/) mit technischen Beiträgen zu Druckgussverfahren, Werkstoffauswahl und Best Practices in der Fertigung.

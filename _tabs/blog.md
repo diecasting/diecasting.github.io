@@ -1,26 +1,27 @@
 ---
-title: Blog
+title: Fachartikel
 icon: fas fa-newspaper
 order: 0
+permalink: /blog/
 ---
 
-## Die Casting & Engineering Articles
+## Artikel zu Druckguss und Fertigungstechnik
 
-Explore our collection of technical articles, guides, and case studies covering industry best practices and innovations in die casting and precision manufacturing.
+Entdecken Sie unsere Sammlung technischer Artikel, Leitfäden und Fallstudien zu Best Practices und Innovationen im Druckguss sowie in der Präzisionsfertigung.
 
-### Browse by
+### Nach Kategorien stöbern
 
-- **[Categories]({{ site.baseurl }}/categories/)** — Filter articles by manufacturing process or topic
-- **[Tags]({{ site.baseurl }}/tags/)** — Find articles by specific technology or material
-- **[Archives]({{ site.baseurl }}/archives/)** — View all articles by date
+- **[Kategorien]({{ site.baseurl }}/categories/)** — Artikel nach Fertigungsprozess oder Thema filtern
+- **[Tags]({{ site.baseurl }}/tags/)** — Artikel nach Technologie oder Werkstoff finden
+- **[Archiv]({{ site.baseurl }}/archives/)** — Alle Artikel nach Datum anzeigen
 
-### Recent Articles
+### Aktuelle Artikel
 
-Our latest posts cover topics including:
-- HPDC process optimization and troubleshooting
-- Material selection and properties
-- Mold design and maintenance
-- Quality control and testing
-- Industry trends and technologies
+Unsere neuesten Beiträge behandeln unter anderem:
+- Optimierung und Fehlerbehebung im HPDC-Prozess
+- Werkstoffauswahl und Materialeigenschaften
+- Werkzeugkonstruktion und Instandhaltung
+- Qualitätskontrolle und Prüfverfahren
+- Branchentrends und Technologien
 
-Check back regularly for new insights and technical deep-dives!
+Schauen Sie regelmäßig vorbei für neue Einblicke und tiefgehende technische Beiträge!

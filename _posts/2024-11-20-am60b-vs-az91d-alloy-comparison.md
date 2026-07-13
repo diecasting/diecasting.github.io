@@ -1,17 +1,18 @@
 ---
-title: "AM60B vs AZ91D: Choosing the Right Magnesium Alloy"
+title: "AM60B vs. AZ91D: Die richtige Magnesiumlegierung wählen"
 date: 2024-11-20 10:15:00 +0800
 categories: [Magnesium Casting, Material Selection]
 tags: [magnesium-alloy, AM60B, AZ91D, material-comparison, casting-properties]
+permalink: /posts/am60b-vs-az91d-alloy-comparison/
 ---
 
-## Magnesium Alloy Comparison Overview
+## Überblick über den Magnesiumlegierungsvergleich
 
-Choosing between AM60B and AZ91D is one of the most critical decisions in magnesium die casting. Each alloy offers distinct advantages and limitations. This guide helps you select the optimal alloy for your application.
+Die Wahl zwischen AM60B und AZ91D gehört zu den wichtigsten Entscheidungen im Magnesium-Druckguss. Beide Legierungen bieten unterschiedliche Vorteile und Einschränkungen. Dieser Leitfaden hilft Ihnen, die optimale Legierung für Ihre Anwendung auszuwählen.
 
-## Side-by-Side Comparison
+## Direkter Vergleich
 
-### Mechanical Properties
+### Mechanische Eigenschaften
 
 | Property | AM60B | AZ91D |
 |----------|-------|-------|
@@ -21,7 +22,7 @@ Choosing between AM60B and AZ91D is one of the most critical decisions in magnes
 | Hardness | 70-80 HB | 60-70 HB |
 | Modulus (E) | 45 GPa | 45 GPa |
 
-### Processing Characteristics
+### Verarbeitungseigenschaften
 
 | Factor | AM60B | AZ91D |
 |--------|-------|-------|
@@ -31,7 +32,7 @@ Choosing between AM60B and AZ91D is one of the most critical decisions in magnes
 | Porosity Tendency | Low | Medium |
 | Thermal Conductivity | 55 W/mK | 55 W/mK |
 
-### Temperature Performance
+### Temperaturverhalten
 
 | Temperature | AM60B | AZ91D |
 |-------------|-------|-------|
@@ -40,179 +41,179 @@ Choosing between AM60B and AZ91D is one of the most critical decisions in magnes
 | 150°C | Fair | Good |
 | 200°C | Poor | Fair |
 
-## AM60B Alloy: In-Depth Analysis
+## Legierung AM60B: Detaillierte Analyse
 
-### Strengths
+### Stärken
 
-**Superior Castability**
-- Wider freezing range (easier to control)
-- Reduced hot tearing and porosity
-- Better feeding in thick sections
-- More forgiving process parameters
+**Überlegene Gießbarkeit**
+- Größerer Erstarrungsbereich (leichter zu kontrollieren)
+- Weniger Heißrisse und Porosität
+- Bessere Speisung in dicken Querschnitten
+- Toleranter gegenüber Prozessschwankungen
 
-**Excellent Ductility**
-- 5-10% elongation (vs. 3-5% for AZ91D)
-- Better impact resistance
-- More reliable in dynamic applications
-- Lower risk of catastrophic failure
+**Sehr gute Duktilität**
+- 5-10 % Dehnung (gegenüber 3-5 % bei AZ91D)
+- Bessere Schlagzähigkeit
+- Zuverlässiger bei dynamischen Anwendungen
+- Geringeres Risiko eines plötzlichen Versagens
 
-**Lower Process Difficulty**
-- More stable during solidification
-- Less sensitive to temperature variations
-- Reduced scrap rates (typically 5-8% vs. 10-15%)
-- Faster learning curve for operators
+**Geringere Prozessanforderungen**
+- Stabiler während der Erstarrung
+- Weniger empfindlich gegenüber Temperaturschwankungen
+- Niedrigere Ausschussraten (typisch 5-8 % statt 10-15 %)
+- Kürzere Einarbeitungszeit für Bediener
 
-### Limitations
+### Grenzen
 
-**Temperature Restrictions**
-- Yield strength drops rapidly above 100°C
-- Not suitable for hot engine components
-- Limited to ambient/moderate temperature use
+**Temperaturgrenzen**
+- Die Streckgrenze sinkt oberhalb von 100°C schnell ab
+- Nicht geeignet für heiße Motorkomponenten
+- Vor allem für Umgebungstemperatur bzw. moderate Temperaturen geeignet
 
-**Cost**
-- 10-15% premium vs. AZ91D
-- Justified by lower scrap and faster cycles
-- Better for high-volume, cost-sensitive production
+**Kosten**
+- 10-15 % Aufpreis gegenüber AZ91D
+- Wird durch weniger Ausschuss und kürzere Zyklen teilweise kompensiert
+- Besonders geeignet für hochvolumige, kostenkritische Fertigung
 
-### Best Applications
+### Typische Anwendungen
 
-- Automotive seat frames and structural components
-- Electronic device housings
-- Power tool bodies
-- Complex thin-wall components
-- Parts requiring high ductility
+- Sitzrahmen und Strukturbauteile im Automobilbau
+- Gehäuse für elektronische Geräte
+- Gehäuse von Elektrowerkzeugen
+- Komplexe dünnwandige Bauteile
+- Teile mit hoher Anforderung an Duktilität
 
-## AZ91D Alloy: In-Depth Analysis
+## Legierung AZ91D: Detaillierte Analyse
 
-### Strengths
+### Stärken
 
-**High-Temperature Performance**
-- Maintains strength to 150°C+
-- Suitable for engine compartment applications
-- Good thermal stability
-- Better creep resistance
+**Gute Hochtemperaturleistung**
+- Hält die Festigkeit bis über 150°C
+- Geeignet für Anwendungen im Motorraum
+- Gute thermische Stabilität
+- Bessere Kriechbeständigkeit
 
-**Established Standards**
-- Decades of field history
-- Well-understood processing
-- Industry acceptance (especially automotive)
-- Extensive supplier base
+**Etablierter Standard**
+- Jahrzehntelange Praxiserfahrung
+- Gut beherrschbarer Prozess
+- Hohe Akzeptanz in der Industrie, insbesondere im Automotive-Bereich
+- Breites Lieferantennetz
 
-**Superior Rigidity**
-- 35% higher yield strength than AM60B
-- Less deflection under load
-- Better for structural applications
-- Excellent for high-stress components
+**Höhere Steifigkeit**
+- 35 % höhere Streckgrenze als AM60B
+- Geringere Durchbiegung unter Last
+- Besser für strukturelle Anwendungen
+- Sehr gut für stark belastete Bauteile
 
-### Limitations
+### Grenzen
 
-**Castability Challenges**
-- Narrower freezing range (requires tight control)
-- Susceptible to hot cracking
-- More difficult feeding
-- Higher scrap rates
+**Herausforderungen bei der Gießbarkeit**
+- Kürzerer Erstarrungsbereich (erfordert enge Prozesskontrolle)
+- Anfällig für Heißrisse
+- Schwieriger zu speisen
+- Höhere Ausschussraten
 
-**Lower Ductility**
-- 3-5% elongation only
-- Brittleness risk in impact scenarios
-- Less forgiving under stress
-- May require thicker walls for durability
+**Geringere Duktilität**
+- Nur 3-5 % Dehnung
+- Höheres Sprödbruchrisiko bei Stoßbelastung
+- Weniger tolerant unter Belastung
+- Für Dauerhaltbarkeit eventuell dickere Wandstärken nötig
 
-**Process Demands**
-- Stricter temperature control (±5°C)
-- More sophisticated mold cooling required
-- Trained operators essential
-- Higher defect rates with poor control
+**Höhere Prozessanforderungen**
+- Strengere Temperaturkontrolle (±5°C)
+- Anspruchsvollere Werkzeugkühlung erforderlich
+- Geschultes Personal unverzichtbar
+- Höhere Fehlerquote bei schlechter Prozessführung
 
-### Best Applications
+### Typische Anwendungen
 
-- Engine cylinder head castings
-- Transmission housings
-- High-temperature bearing supports
-- High-stress structural brackets
-- Automotive suspension components
+- Zylinderkopfgehäuse
+- Getriebegehäuse
+- Hochtemperatur-Lagerböcke
+- Stark belastete Strukturhalterungen
+- Fahrwerkskomponenten im Automobilbereich
 
-## Selection Decision Matrix
+## Entscheidungsmatrix für die Auswahl
 
-| Decision Factor | Choose AM60B | Choose AZ91D |
-|-----------------|-------------|-------------|
-| **Temperature** | < 100°C | > 100°C |
-| **Application** | General industrial | Automotive engine bay |
-| **Priority** | Castability, ductility | Strength, temperature |
-| **Complexity** | Complex thin-wall | Moderate geometry |
-| **Volume** | High (>50k/year) | Medium (10-50k/year) |
-| **Cost Sensitivity** | Medium | High |
-| **Operator Skill** | Basic | Advanced |
-| **Scrap Budget** | 5-10% | 10-15% |
+| Entscheidungsfaktor | AM60B wählen | AZ91D wählen |
+|--------------------|--------------|--------------|
+| **Temperatur** | < 100°C | > 100°C |
+| **Anwendung** | Allgemeine Industrie | Motorraum im Automobil |
+| **Priorität** | Gießbarkeit, Duktilität | Festigkeit, Temperatur |
+| **Komplexität** | Komplexe dünnwandige Geometrie | Mittlere Geometrie |
+| **Stückzahl** | Hoch (>50.000/Jahr) | Mittel (10.000-50.000/Jahr) |
+| **Kostensensibilität** | Mittel | Hoch |
+| **Bedienerqualifikation** | Basis | Fortgeschritten |
+| **Ausschussbudget** | 5-10 % | 10-15 % |
 
-## Cost-Benefit Analysis
+## Kosten-Nutzen-Analyse
 
-### Material Cost Comparison (per kg)
-- AM60B ingot: $4-5
-- AZ91D ingot: $3.50-4
+### Materialkostenvergleich (pro kg)
+- AM60B-Barren: 4-5 USD
+- AZ91D-Barren: 3,50-4 USD
 
-### Process Cost Impact
+### Einfluss auf die Prozesskosten
 
-**AM60B Advantage**
-- Lower scrap rate: -$0.05/part
-- Shorter cycle time: -$0.02/part
-- Less operator expertise: -$0.03/part
-- Better first-pass quality: -$0.04/part
+**Vorteil von AM60B**
+- Niedrigere Ausschussrate: -0,05 USD/Teil
+- Kürzere Zykluszeit: -0,02 USD/Teil
+- Weniger Aufwand bei der Bedienung: -0,03 USD/Teil
+- Bessere Erstteilequalität: -0,04 USD/Teil
 
-**Total AM60B advantage**: ~$0.14/part on high-volume (even with material premium)
+**Gesamtvorteil von AM60B**: ca. 0,14 USD/Teil bei hohen Stückzahlen, trotz Materialaufschlag
 
-### Total Cost of Ownership
+### Gesamtkosten über den Lebenszyklus
 
 For 1 million parts/year:
 - **AM60B**: $4.40/part all-in
 - **AZ91D**: $4.80/part all-in (for similar quality)
 
-## Industry Trends
+## Branchentrends
 
-### Shift Toward AM60B
-- 65% of new automotive programs specify AM60B
-- Suppliers investing in AM60B capacity
-- Industry momentum toward ease of processing
+### Entwicklung hin zu AM60B
+- 65 % der neuen Automotive-Programme spezifizieren AM60B
+- Lieferanten investieren in AM60B-Kapazitäten
+- Der Markt tendiert klar zu besser verarbeitbaren Legierungen
 
-### AZ91D Persistence
-- Still dominant in high-temperature applications
-- Legacy programs (engine blocks, housings)
-- Proven field reliability
-- Specialized equipment investment
+### AZ91D bleibt relevant
+- Weiterhin dominant bei Hochtemperaturanwendungen
+- Bewährte Altprogramme (Motorblöcke, Gehäuse)
+- Im Feld gut erprobte Zuverlässigkeit
+- Investitionen in Spezialausrüstung bleiben sinnvoll
 
-## Quality and Certification
+## Qualität und Zertifizierung
 
-### ISO 12508:2009 Standards
-- Both alloys covered
-- Tensile and yield requirements
-- Elongation specifications
-- Hardness ranges defined
+### ISO 12508:2009
+- Beide Legierungen abgedeckt
+- Anforderungen an Zug- und Streckgrenze
+- Vorgaben zur Dehnung
+- Härtebereiche definiert
 
-### Industry Specifications
-- ASTM B94 (magnesium castings)
-- Automotive: IATF 16949 compliance
-- Aerospace: AS9100 certification needed
+### Branchenspezifikationen
+- ASTM B94 (Magnesiumguss)
+- Automotive: IATF-16949-Konformität
+- Luftfahrt: AS9100-Zertifizierung erforderlich
 
-## Conclusion
+## Fazit
 
-**Choose AM60B** if:
-- Applications are ambient-temperature
-- Complex thin-wall geometry required
-- Cost efficiency and ease important
-- High-volume production planned
-- First-pass quality priority
+**AM60B wählen, wenn:**
+- die Anwendung bei Umgebungstemperatur liegt
+- komplexe dünnwandige Geometrien erforderlich sind
+- Kosten und einfache Verarbeitung wichtig sind
+- hohe Stückzahlen geplant sind
+- Erstteilequalität Priorität hat
 
-**Choose AZ91D** if:
-- High-temperature performance needed (>100°C)
-- Rigidity and strength critical
-- Established automotive platforms
-- Long-term thermal stability required
-- Industry standard compliance essential
+**AZ91D wählen, wenn:**
+- Hochtemperaturleistung benötigt wird (>100°C)
+- Steifigkeit und Festigkeit entscheidend sind
+- etablierte Automotive-Plattformen vorliegen
+- langfristige thermische Stabilität erforderlich ist
+- Norm- und Branchenkonformität unverzichtbar ist
 
-The trend is clearly moving toward AM60B for most applications due to superior castability and lower total cost of ownership. However, AZ91D remains essential for high-temperature engine applications and structural components.
+Der Trend geht bei den meisten Anwendungen klar in Richtung AM60B, da Gießbarkeit und Gesamtbetriebskosten überzeugen. AZ91D bleibt jedoch für Hochtemperatur-Motoranwendungen und Strukturbauteile unverzichtbar.
 
 ---
 
-**Related Articles**:
-- [Magnesium Casting Fundamentals](/posts/magnesium-die-casting-fundamentals/)
-- [Material Selection Guide](/posts/aluminum-a356-alloy-selection/)
+**Verwandte Artikel**:
+- [Grundlagen und Anwendungen des Magnesium-Druckgusses](/posts/magnesium-die-casting-fundamentals/)
+- [Aluminiumlegierung A356: Auswahl und Eigenschaften](/posts/aluminum-a356-alloy-selection/)
