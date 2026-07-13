@@ -6,6 +6,8 @@ tags: [A356, aluminum-alloy, material-properties, automotive]
 permalink: /posts/aluminum-a356-alloy-selection/
 ---
 
+{% include language-switch.html %}
+
 ## Überblick über die Aluminiumlegierung A356
 
 A356 ist eine hochwertige Aluminiumlegierung, die häufig in der Automobil- und Luftfahrtindustrie eingesetzt wird, wenn eine Kombination aus Festigkeit, Gießbarkeit und Wärmebehandelbarkeit gefragt ist. Dieser Artikel beleuchtet Eigenschaften, Anwendungen und Best Practices von A356.

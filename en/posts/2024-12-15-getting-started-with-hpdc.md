@@ -6,6 +6,8 @@ tags: [HPDC, aluminum, casting-process, beginner-guide]
 permalink: /en/posts/getting-started-with-hpdc/
 ---
 
+{% include language-switch.html %}
+
 ## Introduction to High-Pressure Die Casting
 
 High-Pressure Die Casting (HPDC) is one of the most widely used manufacturing processes for producing aluminum parts with excellent dimensional accuracy and surface quality. This guide covers the fundamental concepts and best practices for HPDC operations.

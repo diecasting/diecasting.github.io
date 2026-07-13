@@ -6,6 +6,8 @@ tags: [HPDC, aluminum, casting-process, beginner-guide]
 permalink: /posts/getting-started-with-hpdc/
 ---
 
+{% include language-switch.html %}
+
 ## Einführung in den Hochdruck-Druckguss
 
 Hochdruck-Druckguss (HPDC) ist eines der am weitesten verbreiteten Fertigungsverfahren zur Herstellung von Aluminiumbauteilen mit hervorragender Maßgenauigkeit und Oberflächenqualität. Dieser Leitfaden vermittelt die grundlegenden Konzepte und Best Practices für HPDC-Anwendungen.

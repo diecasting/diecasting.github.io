@@ -1,4 +1,6 @@
 ---
+
+{% include language-switch.html %}
 title: Schlagwörter
 layout: tags
 icon: fas fa-tags

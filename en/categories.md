@@ -1,4 +1,6 @@
 ---
+
+{% include language-switch.html %}
 title: Categories
 icon: fas fa-stream
 order: 1

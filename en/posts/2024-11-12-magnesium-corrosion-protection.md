@@ -6,6 +6,8 @@ tags: [magnesium, corrosion-protection, surface-treatment, coatings, chromate]
 permalink: /en/posts/magnesium-corrosion-protection/
 ---
 
+{% include language-switch.html %}
+
 ## Magnesium Corrosion Challenge
 
 Magnesium is among the most reactive metals used in structural applications. With a standard electrode potential of -2.37V, magnesium corrodes rapidly when exposed to moisture, chlorides, and dissimilar metals. Effective corrosion protection is essential for reliability and longevity.

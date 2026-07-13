@@ -6,6 +6,8 @@ tags: [magnesium, lightweight, AM60B, automotive, aerospace]
 permalink: /en/posts/magnesium-die-casting-fundamentals/
 ---
 
+{% include language-switch.html %}
+
 ## Introduction to Magnesium Die Casting
 
 Magnesium die casting offers unique advantages in industries where weight reduction and high performance are critical. With a density only 2/3 that of aluminum, magnesium enables significant weight savings while maintaining excellent mechanical properties.

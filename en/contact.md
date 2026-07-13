@@ -5,6 +5,8 @@ order: 5
 permalink: /en/contact/
 ---
 
+{% include language-switch.html %}
+
 ## Contact Alumcasting
 
 Have questions about our die casting services, custom mold design, or manufacturing solutions? We're here to help! Fill out the form below and our team will respond within 24 business hours.

@@ -1,0 +1,18 @@
+{%- if page.url contains '/en/' -%}
+  {%- assign counterpart_url = page.url | remove_first: '/en' -%}
+  {%- assign current_label = 'English' -%}
+  {%- assign counterpart_label = 'Deutsch' -%}
+{%- else -%}
+  {%- assign counterpart_url = '/en' | append: page.url -%}
+  {%- assign current_label = 'Deutsch' -%}
+  {%- assign counterpart_label = 'English' -%}
+{%- endif -%}
+
+<div style="margin: 1rem 0 1.5rem; padding: 0.9rem 1rem; border: 1px solid var(--border-color); border-radius: 10px; background: var(--card-bg); display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.75rem; align-items: center;">
+  <span style="font-size: 0.92rem; color: var(--text-muted);">
+    {{ current_label }} version
+  </span>
+  <a href="{{ counterpart_url | relative_url }}" style="font-weight: 600;">
+    {{ counterpart_label }} version
+  </a>
+</div>

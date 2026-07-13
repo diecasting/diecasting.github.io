@@ -6,6 +6,8 @@ tags: [mold-design, cooling-design, gate-design, troubleshooting]
 permalink: /posts/mold-design-best-practices/
 ---
 
+{% include language-switch.html %}
+
 ## Einführung in die Werkzeugkonstruktion für Druckguss
 
 Eine wirksame Werkzeugkonstruktion ist entscheidend für hochwertige Gussteile mit sehr guter Oberflächenqualität, minimalen Fehlern und wirtschaftlicher Produktion. Dieser umfassende Leitfaden behandelt wesentliche Konstruktionsprinzipien und Best Practices.

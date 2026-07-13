@@ -6,6 +6,8 @@ tags: [A356, aluminum-alloy, material-properties, automotive]
 permalink: /en/posts/aluminum-a356-alloy-selection/
 ---
 
+{% include language-switch.html %}
+
 ## A356 Aluminum Alloy Overview
 
 A356 is a premium aluminum alloy widely used in automotive and aerospace applications where a combination of strength, castability, and heat treatability is required. This article explores A356 properties, applications, and best practices.

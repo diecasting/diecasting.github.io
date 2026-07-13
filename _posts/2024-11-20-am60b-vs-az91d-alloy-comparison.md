@@ -6,6 +6,8 @@ tags: [magnesium-alloy, AM60B, AZ91D, material-comparison, casting-properties]
 permalink: /posts/am60b-vs-az91d-alloy-comparison/
 ---
 
+{% include language-switch.html %}
+
 ## Überblick über den Magnesiumlegierungsvergleich
 
 Die Wahl zwischen AM60B und AZ91D gehört zu den wichtigsten Entscheidungen im Magnesium-Druckguss. Beide Legierungen bieten unterschiedliche Vorteile und Einschränkungen. Dieser Leitfaden hilft Ihnen, die optimale Legierung für Ihre Anwendung auszuwählen.

@@ -5,6 +5,8 @@ order: 0
 permalink: /en/blog/
 ---
 
+{% include language-switch.html %}
+
 ## Die Casting & Engineering Articles
 
 Explore our collection of technical articles, guides, and case studies covering industry best practices and innovations in die casting and precision manufacturing.

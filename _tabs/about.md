@@ -5,6 +5,8 @@ order: 4
 permalink: /about/
 ---
 
+{% include language-switch.html %}
+
 ## Über Alumcasting
 
 Alumcasting ist Chinas führender Hersteller für Hochdruck-Druckguss und spezialisiert auf maßgeschneiderte Lösungen für die weltweiten Automobil-, Elektronik- und Industriemärkte. Mit jahrzehntelanger Erfahrung und modernster Technologie liefern wir Präzisionsbauteile auf höchstem Qualitätsniveau.

@@ -6,6 +6,8 @@ tags: [mold-design, cooling-design, gate-design, troubleshooting]
 permalink: /en/posts/mold-design-best-practices/
 ---
 
+{% include language-switch.html %}
+
 ## Introduction to Die Casting Mold Design
 
 Effective mold design is critical to achieving high-quality castings with excellent surface finish, minimal defects, and cost-effective production. This comprehensive guide covers essential design principles and best practices.

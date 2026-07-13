@@ -6,6 +6,8 @@ tags: [quality-assurance, inspection, defect-prevention, testing, standards]
 permalink: /en/posts/quality-control-die-casting/
 ---
 
+{% include language-switch.html %}
+
 ## Quality Control in Die Casting
 
 Quality control is paramount in die casting to ensure products meet specifications, reduce waste, and maintain customer satisfaction. This guide covers comprehensive QC practices from process control to final inspection.

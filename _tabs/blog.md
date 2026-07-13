@@ -5,6 +5,8 @@ order: 0
 permalink: /blog/
 ---
 
+{% include language-switch.html %}
+
 ## Artikel zu Druckguss und Fertigungstechnik
 
 Entdecken Sie unsere Sammlung technischer Artikel, Leitfäden und Fallstudien zu Best Practices und Innovationen im Druckguss sowie in der Präzisionsfertigung.

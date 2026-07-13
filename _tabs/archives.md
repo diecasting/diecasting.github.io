@@ -1,4 +1,6 @@
 ---
+
+{% include language-switch.html %}
 title: Archiv
 layout: archives
 icon: fas fa-archive

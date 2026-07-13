@@ -6,6 +6,8 @@ tags: [magnesium, lightweight, AM60B, automotive, aerospace]
 permalink: /posts/magnesium-die-casting-fundamentals/
 ---
 
+{% include language-switch.html %}
+
 ## Einführung in den Magnesium-Druckguss
 
 Magnesium-Druckguss bietet einzigartige Vorteile in Branchen, in denen Gewichtsreduktion und hohe Leistung entscheidend sind. Mit einer Dichte von nur etwa zwei Dritteln der von Aluminium ermöglicht Magnesium deutliche Gewichtsersparnisse bei gleichzeitig sehr guten mechanischen Eigenschaften.

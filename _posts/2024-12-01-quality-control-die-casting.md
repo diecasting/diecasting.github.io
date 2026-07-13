@@ -6,6 +6,8 @@ tags: [quality-assurance, inspection, defect-prevention, testing, standards]
 permalink: /posts/quality-control-die-casting/
 ---
 
+{% include language-switch.html %}
+
 ## Qualitätskontrolle im Druckguss
 
 Qualitätskontrolle ist im Druckguss entscheidend, damit Produkte die Spezifikationen erfüllen, Ausschuss reduziert wird und die Kundenzufriedenheit erhalten bleibt. Dieser Leitfaden behandelt umfassende QC-Praktiken von der Prozesskontrolle bis zur Endprüfung.

@@ -6,6 +6,8 @@ tags: [magnesium-alloy, AM60B, AZ91D, material-comparison, casting-properties]
 permalink: /en/posts/am60b-vs-az91d-alloy-comparison/
 ---
 
+{% include language-switch.html %}
+
 ## Magnesium Alloy Comparison Overview
 
 Choosing between AM60B and AZ91D is one of the most critical decisions in magnesium die casting. Each alloy offers distinct advantages and limitations. This guide helps you select the optimal alloy for your application.

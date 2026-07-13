@@ -6,6 +6,8 @@ tags: [magnesium, corrosion-protection, surface-treatment, coatings, chromate]
 permalink: /posts/magnesium-corrosion-protection/
 ---
 
+{% include language-switch.html %}
+
 ## Die Korrosionsherausforderung bei Magnesium
 
 Magnesium gehört zu den reaktivsten Metallen in tragenden Anwendungen. Mit einem Standardelektrodenpotential von -2,37 V korrodiert Magnesium schnell bei Kontakt mit Feuchtigkeit, Chloriden und unedlen bzw. edleren Fremdmetallen. Ein wirksamer Korrosionsschutz ist entscheidend für Zuverlässigkeit und Lebensdauer.

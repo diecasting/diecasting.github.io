@@ -5,6 +5,8 @@ order: 5
 permalink: /contact/
 ---
 
+{% include language-switch.html %}
+
 ## Kontakt zu Alumcasting
 
 Haben Sie Fragen zu unseren Druckgussdienstleistungen, zur kundenspezifischen Werkzeugkonstruktion oder zu Fertigungslösungen? Wir helfen Ihnen gerne weiter! Füllen Sie das Formular unten aus, und unser Team meldet sich innerhalb von 24 Geschäftsstunden.

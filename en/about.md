@@ -5,6 +5,8 @@ order: 4
 permalink: /en/about/
 ---
 
+{% include language-switch.html %}
+
 ## About Alumcasting
 
 Alumcasting is China's leading high-pressure die casting manufacturer specializing in custom solutions for global automotive, electronics, and industrial markets. With decades of experience and cutting-edge technology, we deliver precision components that meet the highest quality standards.
