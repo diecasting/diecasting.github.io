@@ -10,7 +10,7 @@ Have questions about our die casting services, custom mold design, or manufactur
 
 ### Contact Form
 
-<form action="https://formspree.io/f/xpqgbdly" method="POST" style="max-width: 100%; margin: 2rem 0; padding: 1.5rem; background: var(--card-bg); border-radius: 8px; border: 1px solid var(--border-color);">
+<form action="https://formspree.io/f/xpqgbdly" method="POST" style="max-width: 100%; margin: 0 auto; font-family: sans-serif;">
   
   <div style="margin-bottom: 1.5rem;">
     <label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">Your Name *</label>
@@ -46,7 +46,7 @@ Have questions about our die casting services, custom mold design, or manufactur
 ### Other Contact Methods
 
 - **Website**: [https://alumcasting.com](https://alumcasting.com)
-- **Email**: contact@alumcasting.com
+- **Email**: hank@alumcasting.com
 - **GitHub**: [@diecasting](https://github.com/diecasting)
 
 ### What We Offer
