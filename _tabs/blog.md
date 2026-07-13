@@ -19,11 +19,12 @@ Entdecken Sie unsere Sammlung technischer Artikel, Leitfäden und Fallstudien zu
 
 ### Aktuelle Artikel
 
-Unsere neuesten Beiträge behandeln unter anderem:
-- Optimierung und Fehlerbehebung im HPDC-Prozess
-- Werkstoffauswahl und Materialeigenschaften
-- Werkzeugkonstruktion und Instandhaltung
-- Qualitätskontrolle und Prüfverfahren
-- Branchentrends und Technologien
+- [Einstieg in den Hochdruck-Druckguss (HPDC)](/posts/getting-started-with-hpdc/)
+- [Aluminiumlegierung A356: Auswahl und Eigenschaften](/posts/aluminum-a356-alloy-selection/)
+- [Grundlagen und Anwendungen des Magnesium-Druckgusses](/posts/magnesium-die-casting-fundamentals/)
+- [Umfassende Qualitätskontrolle im Druckguss](/posts/quality-control-die-casting/)
+- [Best Practices für die Werkzeugkonstruktion im Druckguss](/posts/mold-design-best-practices/)
+- [AM60B vs. AZ91D: Die richtige Magnesiumlegierung wählen](/posts/am60b-vs-az91d-alloy-comparison/)
+- [Korrosionsschutzstrategien für Magnesiumgussteile](/posts/magnesium-corrosion-protection/)
 
 Schauen Sie regelmäßig vorbei für neue Einblicke und tiefgehende technische Beiträge!
